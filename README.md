@@ -1,5 +1,4 @@
 # Buscar
-![Buscar](https://prnt.sc/v646ow)
 
 > Obtenha informações sobre um usuário GitHub (em javascript)
 
